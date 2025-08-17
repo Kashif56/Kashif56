@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Kashif Mehmood<br><br>I'm a Full Stack Web Developer with 3+ years of experience building scalable, high-performance web apps and AI-driven automation systems.<br><br>I am Learning Docker and Fast API<br><br>💼 I Build<br>- Custom SaaS & Web Apps  <br>- AI-Powered Chatbots & Agents (WhatsApp, Email, SMS)  <br>- Workflow Automation using GPT + Make.com/Zapier  <br><br>Always open to collaboration on exciting projects!
+👋 Hi, I'm Kashif Mehmood<br><br>I'm a Full Stack Web Developer with 3+ years of experience building scalable, high-performance web apps and AI-driven automation systems.<br><br>I am Learning AI and Machine Learning<br><br>💼 I Build<br>- Custom SaaS & Web Apps  <br>- AI-Powered Chatbots & Agents (WhatsApp, Email, SMS)  <br>- Workflow Automation using GPT + Make.com/Zapier  <br><br>Always open to collaboration on exciting projects!
 
 
 ## 🌐 Socials:
